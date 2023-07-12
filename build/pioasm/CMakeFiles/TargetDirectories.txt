@@ -1,0 +1,3 @@
+D:/RP2040/pwrsp/build/pioasm/CMakeFiles/pioasm.dir
+D:/RP2040/pwrsp/build/pioasm/CMakeFiles/edit_cache.dir
+D:/RP2040/pwrsp/build/pioasm/CMakeFiles/rebuild_cache.dir
